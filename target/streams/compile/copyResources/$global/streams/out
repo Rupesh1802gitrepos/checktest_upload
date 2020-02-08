@@ -1,0 +1,8 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/sidhartha.ray/Documents/workspace/scala-examples/src/main/resources/Images,/Users/sidhartha.ray/Documents/workspace/scala-examples/target/scala-2.11/classes/Images)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sidhartha.ray/Documents/workspace/scala-examples/src/main/resources/REL.ser,/Users/sidhartha.ray/Documents/workspace/scala-examples/target/scala-2.11/classes/REL.ser)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sidhartha.ray/Documents/workspace/scala-examples/src/main/resources/trade.txt,/Users/sidhartha.ray/Documents/workspace/scala-examples/target/scala-2.11/classes/trade.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sidhartha.ray/Documents/workspace/scala-examples/src/main/resources/Mid_Cap_Stocks.csv,/Users/sidhartha.ray/Documents/workspace/scala-examples/target/scala-2.11/classes/Mid_Cap_Stocks.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sidhartha.ray/Documents/workspace/scala-examples/src/main/resources/Images/ScalaContainers_2.png,/Users/sidhartha.ray/Documents/workspace/scala-examples/target/scala-2.11/classes/Images/ScalaContainers_2.png)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sidhartha.ray/Documents/workspace/scala-examples/src/main/resources/Images/ScalaContainers_1.png,/Users/sidhartha.ray/Documents/workspace/scala-examples/target/scala-2.11/classes/Images/ScalaContainers_1.png)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sidhartha.ray/Documents/workspace/scala-examples/src/main/resources/Images/ScalaCollectionHierarchy.png,/Users/sidhartha.ray/Documents/workspace/scala-examples/target/scala-2.11/classes/Images/ScalaCollectionHierarchy.png)[0m
